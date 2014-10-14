@@ -29,6 +29,6 @@ public class Cashier
 		}
 	public static int toPennies(int[] value)
 		{
-		// convert the change into pennies after taking in the value 1
+		// convert the change into pennies after taking in the value 12
 		}
 	}
